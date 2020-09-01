@@ -1,8 +1,7 @@
-public class Hello{
-
-public static void main(String[] args){
-for(init i=1;i<10,i++){
-system.out.printin("Hello world ..."+i);
-}
-}
-}
+public class Hello
+   {
+    public static void main(String args[])
+{  
+     System.out.println("Hello Java");  
+    }  
+}  
